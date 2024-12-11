@@ -43,5 +43,4 @@ Feature Engineering: Creating new features like time of day, season, and weather
 ## Contribute:
 Feel free to fork, improve, and create pull requests with any suggestions or improvements.
 
-## Contributing:
-Feel free to fork the repository and submit pull requests for improvements!
+
