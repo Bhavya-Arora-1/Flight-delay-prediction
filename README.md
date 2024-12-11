@@ -2,6 +2,22 @@
 
 This project uses machine learning algorithms to predict flight delays based on historical data.
 
+## Project Overview
+Flight delays are a major issue for passengers and airlines, resulting in lost revenue, passenger dissatisfaction, and operational challenges. This project uses machine learning to predict the likelihood of flight delays based on historical flight data.
+
+## Problem Statement
+Predicting flight delays based on multiple factors such as weather conditions, airport traffic, flight schedules, and historical data.
+
+## Approach
+ **Data Preprocessing**
+**Cleaning:** Handling missing values, removing irrelevant columns, and correcting data inconsistencies.
+Feature Engineering: Creating new features like time of day, season, and weather conditions.
+**Normalization:** Scaling numerical features to improve model performance.
+**Machine Learning Models**
+**Algorithms Used:** Logistic Regression, Random Forest, and XGBoost.
+**Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, and ROC-AUC.
+**Final Model:** Random Forest Classifier with the highest accuracy.
+
 ## Technologies Used:
 - **Python** (Pandas, NumPy, Scikit-learn)
 - **Machine Learning** (Supervised learning models like Logistic Regression, Random Forest)
